@@ -1,0 +1,5 @@
+**/*.tif
+**/*.tiff
+**/*.avi
+**/__pycache__/
+/results/*/*
